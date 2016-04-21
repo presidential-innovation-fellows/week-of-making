@@ -2,10 +2,10 @@
 # .about.yml project metadata
 #
 # Short name that acts as the project identifier (required)
-name: dap-guide
+name: week-of-making
 
 # Full proper name of the project (required)
-full_name: DAP Guide
+full_name: Week of Making
 
 # The type of content in the repo
 # values: app, docs, policy
@@ -43,13 +43,14 @@ team:
   id: Andrew Stroup
   role: Presidential Innovation Fellow
 
-- github: babycarrot
-  id: Clara Tso
+- github: adambellow
+  id: Adam Bellow
   role: Presidential Innovation Fellow
 
 # Partners for whom the project is developed
 partners:
 - GSA
+- OSTP
 
 # Organizations or individuals who have adopted the project for their own use
 # Items:
@@ -133,4 +134,4 @@ licenses:
 #   text: Anchor text for the link
 contact:
 - url: mailto:dap-18f@gsa.gov
-  text: Clara Tsao
+  text: Adam Bellow
