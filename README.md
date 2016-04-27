@@ -1,10 +1,10 @@
 # Digital Acquisition Pilot Guide
 
-[![Dependency Status](https://gemnasium.com/badges/github.com/presidential-innovation-fellows/dap-guide.svg)](https://gemnasium.com/github.com/presidential-innovation-fellows/dap-guide)
-[![security](https://hakiri.io/github/presidential-innovation-fellows/dap-guide/master.svg)](https://hakiri.io/github/presidential-innovation-fellows/dap-guide/master)
-[![Code Climate](https://codeclimate.com/github/presidential-innovation-fellows/dap-guide/badges/gpa.svg)](https://codeclimate.com/github/presidential-innovation-fellows/dap-guide)
-[![Test Coverage](https://codeclimate.com/github/presidential-innovation-fellows/dap-guide/badges/coverage.svg)](https://codeclimate.com/github/presidential-innovation-fellows/dap-guide/coverage)
-[![Issue Count](https://codeclimate.com/github/presidential-innovation-fellows/dap-guide/badges/issue_count.svg)](https://codeclimate.com/github/presidential-innovation-fellows/dap-guide)
+[![Dependency Status](https://gemnasium.com/badges/github.com/presidential-innovation-fellows/week-of-making.svg)](https://gemnasium.com/github.com/presidential-innovation-fellows/week-of-making)
+[![security](https://hakiri.io/github/presidential-innovation-fellows/week-of-making/master.svg)](https://hakiri.io/github/presidential-innovation-fellows/week-of-making/master)
+[![Code Climate](https://codeclimate.com/repos/57211ce78f6dad33c900315b/badges/3a0b762f93bdf1d4881e/gpa.svg)](https://codeclimate.com/repos/57211ce78f6dad33c900315b/feed)
+[![Test Coverage](https://codeclimate.com/repos/57211ce78f6dad33c900315b/badges/3a0b762f93bdf1d4881e/coverage.svg)](https://codeclimate.com/repos/57211ce78f6dad33c900315b/coverage)
+[![Issue Count](https://codeclimate.com/repos/57211ce78f6dad33c900315b/badges/3a0b762f93bdf1d4881e/issue_count.svg)](https://codeclimate.com/repos/57211ce78f6dad33c900315b/feed)
 
 ## Description
 
