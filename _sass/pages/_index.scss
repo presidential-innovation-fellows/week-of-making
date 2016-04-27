@@ -34,6 +34,7 @@ ul {
   min-height:650px;
   position: relative;
   text-align:center;
+  padding-top:100px;
 
   h1,
   h2,
@@ -76,20 +77,20 @@ ul {
 .usa-content{
   margin-bottom:0px;
 
-  h1{
+  h1, h2{
     margin-top:0px;
   }
 
-  #overview, #solution, #studies, #faq, #team, #blog{
+  #overview, #opportunities, #examples, #connect, #science{
     padding-top:75px;
     padding-bottom:75px;
   }
 
-  #overview, #faq{
+  #opportunities{
     background-color:$color-primary;
   }
 
-  #studies, #blog{
+  #connect{
     background-color:$color-primary-darkest
   }
 
@@ -97,55 +98,16 @@ ul {
     padding-top:75px;
     padding-bottom:75px;
     text-align:center;
-    h1{
-      color:$color-white;
-    }
-    p{
-      color:$color-white;
-    }
   }
 
-  #solution{
-    h1, h3{
-      color:$color-base;
-    }
-    h2, h4{
-      color:$color-primary-darkest;
-      margin-top:0px;
-    }
-    h1{
-      margin-bottom:0px;
-    }
-    h3{
-      margin-top:0px;
-    }
-    #solution-title{
+  #opportunities{
+    h1, h2{
       text-align:center;
-      padding-bottom:50px;
-    }
-    #solution-row{
-      padding-bottom:30px;
-    }
-  }
-
-  #studies{
-    h3, p{
       color:$color-white;
     }
   }
 
-  #faq{
-    h1{
-      color:$color-white;
-      text-align:center;
-    }
-  }
-
-  #team{
-    h1{
-      text-align:center;
-      color:$color-base;
-    }
+  #examples{
     ul {
       li {
         &::before{
@@ -155,17 +117,20 @@ ul {
     }
   }
 
-  #blog{
+  #connect{
     text-align:center;
-    h2, h3{
+    h1, h2, h3, p {
       color:$color-white;
     }
-    h2{
-      margin-top:25px;
-    }
-    h3{
-      margin-top:0px;
-      margin-bottom:25px;
+  }
+
+  #science{
+    ul {
+      li {
+        &::before{
+          content:"•";
+        }
+      }
     }
   }
 }
