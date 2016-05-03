@@ -23,7 +23,7 @@ owner_type: project
 stage: alpha
 
 # Description of the project
-description: The digital acquisition pilot empowers a cross-functional team of digital and acquisition experts to shift from legacy to modern-day digital acquisition practices. Officially announced by the White House Office of Federal Procurement Policy (OFPP) in March 2016, this fully-funded project is a 5-8 month initiative to lending a team of experts from the Presidential Innovation Fellows, 18F, and U.S. Digital Service to federal agencies to train up a cadre of digital service experts
+description: The National Week of Making is a week long event that celebrates makers, tinkerers, and so many people creating and sharing with the world.
 
 # Tags that describe the project or aspects of the project
 tags:
@@ -68,7 +68,7 @@ stack:
 - jekyll
 
 # Brief description of the project's outcomes
-impact: some text
+impact: The site is intended to share some of the ways that makers all around the country can share their creations and be part of the Week of Making
 
 # Services used to supply project status information
 # Items:
@@ -133,5 +133,5 @@ licenses:
 # - url: URL for the link
 #   text: Anchor text for the link
 contact:
-- url: mailto:dap-18f@gsa.gov
-  text: Adam Bellow
+- url: mailto:weekofmaking@pif.gov
+  text: 
