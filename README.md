@@ -2,9 +2,9 @@
 
 [![Dependency Status](https://gemnasium.com/badges/github.com/presidential-innovation-fellows/week-of-making.svg)](https://gemnasium.com/github.com/presidential-innovation-fellows/week-of-making)
 [![security](https://hakiri.io/github/presidential-innovation-fellows/week-of-making/master.svg)](https://hakiri.io/github/presidential-innovation-fellows/week-of-making/master)
-[![Code Climate](https://codeclimate.com/repos/57211ce78f6dad33c900315b/badges/3a0b762f93bdf1d4881e/gpa.svg)](https://codeclimate.com/repos/57211ce78f6dad33c900315b/feed)
-[![Test Coverage](https://codeclimate.com/repos/57211ce78f6dad33c900315b/badges/3a0b762f93bdf1d4881e/coverage.svg)](https://codeclimate.com/repos/57211ce78f6dad33c900315b/coverage)
-[![Issue Count](https://codeclimate.com/repos/57211ce78f6dad33c900315b/badges/3a0b762f93bdf1d4881e/issue_count.svg)](https://codeclimate.com/repos/57211ce78f6dad33c900315b/feed)
+[![Code Climate](https://codeclimate.com/github/presidential-innovation-fellows/week-of-making/badges/gpa.svg)](https://codeclimate.com/github/presidential-innovation-fellows/week-of-making)
+[![Test Coverage](https://codeclimate.com/github/presidential-innovation-fellows/week-of-making/badges/coverage.svg)](https://codeclimate.com/github/presidential-innovation-fellows/week-of-making/coverage)
+[![Issue Count](https://codeclimate.com/github/presidential-innovation-fellows/week-of-making/badges/issue_count.svg)](https://codeclimate.com/github/presidential-innovation-fellows/week-of-making)
 
 ## Description
 
