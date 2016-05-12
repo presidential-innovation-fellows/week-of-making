@@ -86,8 +86,12 @@ ul {
     padding-bottom:75px;
   }
 
-  #next-steps, #opportunities{
-    background-color:$color-primary-darkest
+  #opportunities{
+    background-color:$color-primary-darkest;
+  }
+
+  #examples {
+    background-color:$color-gold-lightest;
   }
 
   #overview{
@@ -134,9 +138,6 @@ ul {
 
   #next-steps{
     text-align:center;
-    h1, h2, h3, p {
-      color:$color-white;
-    }
     a{
       display:block;
       padding-top:20px;
