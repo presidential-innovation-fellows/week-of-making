@@ -36,6 +36,18 @@ ul {
   text-align:center;
   padding-top:100px;
 
+  @media screen and (max-width: 925px){
+    min-height:550px;
+  }
+
+  @media screen and (max-width: 650px){
+    min-height:450px;
+  }
+
+  @media screen and (max-width: 500px){
+    min-height:350px;
+  }
+
   h1,
   h2,
   h3,
@@ -73,6 +85,7 @@ ul {
     }
   }
 }
+
 
 .usa-content{
   margin-bottom:0px;
