@@ -97,6 +97,11 @@ ul {
     p{
       text-align:left;  
     }
+    a{
+      &:focus, &:visited{
+        color:$color-white;
+      }
+    }
   }
 
   #opportunities{
