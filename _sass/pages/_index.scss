@@ -81,16 +81,12 @@ ul {
     margin-top:0px;
   }
 
-  #overview, #opportunities, #examples, #connect, #science{
+  #overview, #opportunities, #examples, #next-steps, #social-media{
     padding-top:75px;
     padding-bottom:75px;
   }
 
-  #opportunities{
-    background-color:$color-primary;
-  }
-
-  #connect{
+  #next-steps, #opportunities{
     background-color:$color-primary-darkest
   }
 
@@ -98,38 +94,76 @@ ul {
     padding-top:75px;
     padding-bottom:75px;
     text-align:center;
+    p{
+      text-align:left;  
+    }
   }
 
   #opportunities{
-    h1, h2{
+    h1, h3{
       text-align:center;
       color:$color-white;
+    }
+    h1{
+      margin-bottom:0px;
+    }
+    h3{
+      font-size:2.3rem;
+      margin-top:0px;
     }
   }
 
   #examples{
     ul {
+      margin-left:15px;
       li {
         &::before{
           content:"•";
+        }
+        a{
+          font-size:2rem;
         }
       }
     }
   }
 
-  #connect{
+  #next-steps{
     text-align:center;
     h1, h2, h3, p {
       color:$color-white;
     }
+    a{
+      display:block;
+      padding-top:20px;
+      padding-bottom:20px;
+      font-size:2.2rem;
+      &:focus, &:visited{
+        color:$color-white;
+      }
+    }
   }
 
-  #science{
-    ul {
-      li {
-        &::before{
-          content:"•";
-        }
+  #social-media{
+    h1, h3{
+      text-align:center;
+    }
+    h1{
+      margin-bottom:0px
+    }
+    h3{
+      font-size:2.3rem;
+      margin-top:0px;
+      margin-bottom:35px;
+    }
+    .social-media-icon{
+      max-height:35px;
+      margin-bottom:5px;
+    }
+    .social-options{
+      padding-left:20%;
+      padding-right:20%;
+      .social-images{
+        padding:0px;
       }
     }
   }
